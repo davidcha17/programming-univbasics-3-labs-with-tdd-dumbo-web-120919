@@ -6,6 +6,4 @@ second_number = 5
 
 def sum
   sum = first_number + second_number
-  return sum
 end
-  
